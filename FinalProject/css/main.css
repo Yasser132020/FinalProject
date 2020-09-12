@@ -85,7 +85,7 @@ body
 {
     width: 30%;
     float: left;
-    color: #FF305B;
+    color: #00C3DA;
     font-size: 25px;
     font-weight: bold;
     padding-top: 20px;
@@ -109,11 +109,11 @@ body
 }
 .nav-links ul li a:hover
 {
-    color: #FF305B;
+    color: #00C3DA;
 }
 a.active
 {
-    color: #FF305B;  
+    color: #00C3DA;  
 }
 .caption
 {
@@ -127,7 +127,7 @@ a.active
 }
 .caption h1
 {
-    color:#FF305B;
+    color:#00C3DA;
     font-size: 55px;
     margin: 15px 0;
 }
